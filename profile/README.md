@@ -18,6 +18,11 @@ This organization is used to structure reusable AI assets, prototypes, internal 
 
 Built for execution, not demos.
 
+## Contributing
+
+Developers should follow the organization-wide
+[contribution guidelines](../CONTRIBUTING.md).
+
 ----
 
 Nate Busa  
